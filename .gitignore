@@ -1,0 +1,20 @@
+binary_files/
+# Ignore executables and dynamic libraries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore compiled objects and packages
+*.o
+*.obj
+*.class
+*.jar
+*.pyc
+
+# Ignore data binaries
+*.bin
+*.pkl
+*.npy
+*.dat
+*.env
