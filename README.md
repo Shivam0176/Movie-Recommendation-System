@@ -6,6 +6,8 @@ A content-based movie recommendation system that suggests similar movies based o
 
 Check out the live app here: [https://huggingface.co/spaces/Shivambhusari/movie-recommender](https://huggingface.co/spaces/Shivambhusari/movie-recommender)
 
+[![App demo](images\image.png)](https://huggingface.co/spaces/Shivambhusari/movie-recommender)
+
 ## Overview
 
 This project recommends movies similar to a user-selected title by analyzing the *content* of each movie rather than user ratings or behavior. It combines a movie's overview, genres, keywords, top cast, and director into a single "tags" feature, vectorizes the text, and computes similarity scores between movies using cosine similarity.
