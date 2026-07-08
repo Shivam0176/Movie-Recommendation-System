@@ -6,7 +6,7 @@ A content-based movie recommendation system that suggests similar movies based o
 
 Check out the live app here: [https://huggingface.co/spaces/Shivambhusari/movie-recommender](https://huggingface.co/spaces/Shivambhusari/movie-recommender)
 
-[![App demo](images\image.png)](https://huggingface.co/spaces/Shivambhusari/movie-recommender)
+[![App demo](./images/image.png)](https://huggingface.co/spaces/Shivambhusari/movie-recommender)
 
 ## Overview
 
