@@ -97,7 +97,7 @@ omdb_apikey=your_api_key_here
 
 ### 5. Generate the model files
 
-Run all cells in `movie-recommender-system.ipynb` to preprocess the data and generate `movie_dict.pkl` and `similarity.pkl`. Move these files into a `binary_files/` folder in the project root.
+Run the python file `recommendation-system.py` to preprocess the data and generate `movie_dict.pkl` and `similarity.pkl`. these files will be in a `binary_files/` folder in the project root.
 
 ### 6. Run the app
 
