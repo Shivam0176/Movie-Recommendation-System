@@ -71,7 +71,7 @@ movie-recommender-system/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shivam0176/Movie-Recommendation-System.git
 cd movie-recommender-system
 ```
 
